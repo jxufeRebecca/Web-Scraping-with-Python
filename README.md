@@ -1,1 +1,3 @@
-# Web-Scraping-with-Python
+## 招聘网站定向爬虫实例
+程序实现了获取前程无忧网站“数据分析”岗位搜索页面的信息，提取招聘企业信息、招聘岗位信息
++ 技术路线：requests——BeautifulSoup——re
